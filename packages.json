@@ -1,0 +1,10 @@
+[
+    {
+        "package": "pixi",
+        "url": "https://github.com/roaldarbol/pixi"
+    },
+    {
+        "package": "sleeprex",
+        "url": "https://github.com/roaldarbol/sleeprex"
+    }
+]
