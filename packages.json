@@ -6,5 +6,9 @@
     {
         "package": "sleeprex",
         "url": "https://github.com/roaldarbol/sleeprex"
+    },
+    {
+        "package": "trackballr",
+        "url": "https://github.com/roaldarbol/trackballr"
     }
 ]
