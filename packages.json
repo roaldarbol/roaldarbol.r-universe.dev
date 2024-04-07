@@ -10,5 +10,9 @@
     {
         "package": "trackballr",
         "url": "https://github.com/roaldarbol/trackballr"
+    },
+    {
+        "package": "respirometr",
+        "url": "https://github.com/roaldarbol/respirometr"
     }
 ]
