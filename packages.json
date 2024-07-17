@@ -1,7 +1,7 @@
 [
     {
-        "package": "pixi",
-        "url": "https://github.com/roaldarbol/r-pixi"
+        "package": "rpix",
+        "url": "https://github.com/roaldarbol/rpix"
     },
     {
         "package": "anibehavr",
