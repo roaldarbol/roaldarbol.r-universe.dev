@@ -14,5 +14,9 @@
     {
         "package": "respirometr",
         "url": "https://github.com/roaldarbol/respirometr"
+    },
+    {
+        "package": "wavecolour",
+        "url": "https://github.com/roaldarbol/wavecolour"
     }
 ]
