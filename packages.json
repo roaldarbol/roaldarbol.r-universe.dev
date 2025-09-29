@@ -18,5 +18,17 @@
     {
         "package": "wavecolour",
         "url": "https://github.com/roaldarbol/wavecolour"
+    },
+    {
+        "package": "rhdf5",
+        "url": "https://github.com/Huber-group-EMBL/rhdf5"
+    },
+    {
+        "package": "rhdf5filters",
+        "url": "https://github.com/Huber-group-EMBL/rhdf5filters"
+    },
+    {
+        "package": "rhdf5lib",
+        "url": "https://github.com/Huber-group-EMBL/Rhdf5lib"
     }
 ]
