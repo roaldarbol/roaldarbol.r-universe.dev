@@ -28,7 +28,7 @@
         "url": "https://github.com/Huber-group-EMBL/rhdf5filters"
     },
     {
-        "package": "rhdf5lib",
+        "package": "Rhdf5lib",
         "url": "https://github.com/Huber-group-EMBL/Rhdf5lib"
     }
 ]
